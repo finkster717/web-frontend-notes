@@ -1,3 +1,7 @@
 #main-nav {
     position: sticky;
 }
+
+p {
+    margin: 25px 200px;
+}
