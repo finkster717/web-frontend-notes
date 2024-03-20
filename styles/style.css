@@ -15,6 +15,10 @@ header {
     display: inline-block;
 }
 
+#main-nav a:hover {
+    text-decoration: underline;
+}
+
 body {
     background-color: whitesmoke;
     margin: 0 auto;
